@@ -4,4 +4,4 @@ joblib
 pandas
 plotly
 scikit-learn==1.3.0  
-searborn
+seaborn
